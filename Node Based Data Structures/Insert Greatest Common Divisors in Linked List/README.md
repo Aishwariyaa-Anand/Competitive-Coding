@@ -6,7 +6,7 @@ Return the linked list after insertion.
 The greatest common divisor of two numbers is the largest positive integer that evenly divides both numbers.
 
 
-## Example 1:
+### Example 1:
 ![image](https://github.com/Aishwariyaa-Anand/Competitive-Coding/assets/124241367/13fb930a-6f24-4e72-9c40-1475ebb520fd)
 
 ```
@@ -20,7 +20,7 @@ Output: [18,6,6,2,10,1,3]
 There are no more adjacent nodes, so we return the linked list.
 
 
-## Example 2:
+### Example 2:
 ![image](https://github.com/Aishwariyaa-Anand/Competitive-Coding/assets/124241367/bd35ac49-025f-4244-b891-781701c3b130)
 
 ```
