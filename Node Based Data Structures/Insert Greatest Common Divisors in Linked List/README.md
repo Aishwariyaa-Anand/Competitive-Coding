@@ -1,14 +1,9 @@
-**Insert Greatest Common Divisors in Linked List
-**
+Insert Greatest Common Divisors in Linked List
+
 Given the head of a linked list head, in which each node contains an integer value.
-
 Between every pair of adjacent nodes, insert a new node with a value equal to the greatest common divisor of them.
-
 Return the linked list after insertion.
-
 The greatest common divisor of two numbers is the largest positive integer that evenly divides both numbers.
-
- 
 
 Example 1:
 ![image](https://github.com/Aishwariyaa-Anand/Competitive-Coding/assets/124241367/13fb930a-6f24-4e72-9c40-1475ebb520fd)
@@ -20,6 +15,7 @@ Explanation: The 1st diagram denotes the initial linked list and the 2nd diagram
 - We insert the greatest common divisor of 6 and 10 = 2 between the 2nd and the 3rd nodes.
 - We insert the greatest common divisor of 10 and 3 = 1 between the 3rd and the 4th nodes.
 There are no more adjacent nodes, so we return the linked list.
+
 Example 2:
 ![image](https://github.com/Aishwariyaa-Anand/Competitive-Coding/assets/124241367/bd35ac49-025f-4244-b891-781701c3b130)
 
