@@ -9,10 +9,10 @@ The greatest common divisor of two numbers is the largest positive integer that 
 ## Example 1:
 ![image](https://github.com/Aishwariyaa-Anand/Competitive-Coding/assets/124241367/13fb930a-6f24-4e72-9c40-1475ebb520fd)
 
-'''
+```
 Input: head = [18,6,10,3]
 Output: [18,6,6,2,10,1,3]
-'''
+```
 **Explanation:** The 1st diagram denotes the initial linked list and the 2nd diagram denotes the linked list after inserting the new nodes (nodes in blue are the inserted nodes).
 - We insert the greatest common divisor of 18 and 6 = 6 between the 1st and the 2nd nodes.
 - We insert the greatest common divisor of 6 and 10 = 2 between the 2nd and the 3rd nodes.
@@ -23,9 +23,9 @@ There are no more adjacent nodes, so we return the linked list.
 ## Example 2:
 ![image](https://github.com/Aishwariyaa-Anand/Competitive-Coding/assets/124241367/bd35ac49-025f-4244-b891-781701c3b130)
 
-'''
+```
 Input: head = [7]
 Output: [7]
-'''
+```
 **Explanation:** The 1st diagram denotes the initial linked list and the 2nd diagram denotes the linked list after inserting the new nodes.
 There are no pairs of adjacent nodes, so we return the initial linked list.
