@@ -1,4 +1,4 @@
-# Linked List in Parts
+# Split Linked List in Parts
 
 Given the head of a singly linked list and an integer k, split the linked list into k consecutive linked list parts.
 
