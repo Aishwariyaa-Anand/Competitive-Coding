@@ -6,7 +6,9 @@ If there are two middle nodes, return the second middle node.
 
 
 ### Example 1:
-https://assets.leetcode.com/uploads/2021/07/23/lc-midlist1.jpg
+![lc-midlist1](https://github.com/Aishwariyaa-Anand/Competitive-Coding/assets/124241367/54f22635-40c6-4a30-a77a-2993eb664897)
+
+
 ```
 Input: head = [1,2,3,4,5]
 Output: [3,4,5]
@@ -15,7 +17,9 @@ Output: [3,4,5]
 
 
 ### Example 2:
-https://assets.leetcode.com/uploads/2021/07/23/lc-midlist2.jpg
+![lc-midlist2](https://github.com/Aishwariyaa-Anand/Competitive-Coding/assets/124241367/782c0d9a-aa2b-4adf-8c20-31e4e78858b2)
+
+
 ```
 Input: head = [1,2,3,4,5,6]
 Output: [4,5,6]
