@@ -5,7 +5,7 @@ Given an integer array nums where the elements are sorted in ascending order, co
 
 ### Example 1:
 ![btree1](https://github.com/Aishwariyaa-Anand/Competitive-Coding/assets/124241367/10e3ef36-8ef4-427d-8961-a6a463da58f9)
-
+![btree2](https://github.com/Aishwariyaa-Anand/Competitive-Coding/assets/124241367/a9803008-c6ea-4214-a699-6ff62046c438)
 ```
 Input: nums = [-10,-3,0,5,9]
 Output: [0,-3,9,-10,null,5]
@@ -14,7 +14,7 @@ Output: [0,-3,9,-10,null,5]
 
 
 ### Example 2:
-![btree2](https://github.com/Aishwariyaa-Anand/Competitive-Coding/assets/124241367/a9803008-c6ea-4214-a699-6ff62046c438)
+
 
 ```
 Input: nums = [1,3]
