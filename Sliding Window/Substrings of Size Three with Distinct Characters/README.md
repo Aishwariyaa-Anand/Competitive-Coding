@@ -1,4 +1,4 @@
-Substrings of Size Three with Distinct Characters
+# Substrings of Size Three with Distinct Characters
 
 A string is good if there are no repeated characters.
 
